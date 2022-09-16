@@ -1,17 +1,42 @@
 {
   "files": {
-    "main.css": "/static/css/main.abbb364c.css",
-    "main.js": "/static/js/main.c54feae8.js",
+    "main.css": "/static/css/main.52c9b3cc.css",
+    "main.js": "/static/js/main.d78801ef.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/meta_pic.png": "/static/media/meta_pic.1f45bbdde4517627e88a.png",
+    "static/media/react-recipe.png": "/static/media/react-recipe.057d7ba27cfb56841480.png",
+    "static/media/logo.gif": "/static/media/logo.7919a416e3e3bfe85e2f.gif",
+    "static/media/shop-web.png": "/static/media/shop-web.f9118ed9306e4d7ade2a.png",
+    "static/media/orbitz.png": "/static/media/orbitz.499243f91bff507655df.png",
+    "static/media/mern-ecommerce.png": "/static/media/mern-ecommerce.ff1f9ad04d1e6af3a47b.png",
+    "static/media/man.svg": "/static/media/man.76132f8da8439ecfd703.svg",
     "static/media/pratik.png": "/static/media/pratik.0eedf054018d31fd4d6e.png",
     "static/media/developer.jpg": "/static/media/developer.23e159bedb27f3e8dcb6.jpg",
+    "static/media/bewakoof.png": "/static/media/bewakoof.f20fb7319ab491571cd0.png",
+    "static/media/desk.png": "/static/media/desk.d10cc1839b9bf5fd9758.png",
+    "static/media/ibm_logo.png": "/static/media/ibm_logo.561b381bfdc1fc144f8f.png",
+    "static/media/contactMail.webp": "/static/media/contactMail.298a597edb8258fc13e5.webp",
+    "static/media/pierian-data-logo.png": "/static/media/pierian-data-logo.c3f317012da5a4fa9911.png",
+    "static/media/desk.jpg": "/static/media/desk.fae6faf1be92dfe9dafa.jpg",
+    "static/media/quoraLogo.png": "/static/media/quoraLogo.85eb29f4d52320c8ed99.png",
+    "static/media/airbnbLogo.png": "/static/media/airbnbLogo.e8497507db673acd3991.png",
+    "static/media/rahulshettyacademy-logo.png": "/static/media/rahulshettyacademy-logo.cb267baa13090b5bf713.png",
+    "static/media/zero-to-mastery.png": "/static/media/zero-to-mastery.5a4624b1268feb59a5fc.png",
+    "static/media/jsFramework.svg": "/static/media/jsFramework.3ab07cc8870a3b0896a5.svg",
+    "static/media/seetest-logo.png": "/static/media/seetest-logo.443de02aa488a5d335c2.png",
+    "static/media/vskills-logo.png": "/static/media/vskills-logo.427a80fbdd50fe384cec.png",
+    "static/media/project1.jpg": "/static/media/project1.3ead675491c2e51d9976.jpg",
+    "static/media/facebookLogo.png": "/static/media/facebookLogo.f46d68b24e9b4f73ee8b.png",
+    "static/media/skill.svg": "/static/media/skill.534a480585017f1685b7.svg",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.ec71d7cb82f4dfb6faa2.svg",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.64ee645097ba732c156b.svg",
     "index.html": "/index.html",
-    "main.abbb364c.css.map": "/static/css/main.abbb364c.css.map",
-    "main.c54feae8.js.map": "/static/js/main.c54feae8.js.map",
+    "main.52c9b3cc.css.map": "/static/css/main.52c9b3cc.css.map",
+    "main.d78801ef.js.map": "/static/js/main.d78801ef.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.abbb364c.css",
-    "static/js/main.c54feae8.js"
+    "static/css/main.52c9b3cc.css",
+    "static/js/main.d78801ef.js"
   ]
 }
