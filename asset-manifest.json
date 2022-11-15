@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c8318b51.css",
-    "main.js": "/static/js/main.53f0c647.js",
+    "main.css": "/static/css/main.b9d006fe.css",
+    "main.js": "/static/js/main.b0a34592.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/meta_pic.png": "/static/media/meta_pic.1f45bbdde4517627e88a.png",
     "static/media/react-recipe.png": "/static/media/react-recipe.057d7ba27cfb56841480.png",
@@ -22,6 +22,7 @@
     "static/media/heroku.png": "/static/media/heroku.9c981df4ed58adb42753.png",
     "static/media/pierian-data-logo.png": "/static/media/pierian-data-logo.c3f317012da5a4fa9911.png",
     "static/media/desk.jpg": "/static/media/desk.fae6faf1be92dfe9dafa.jpg",
+    "static/media/githubstats.png": "/static/media/githubstats.a3a47ea7554432c0775e.png",
     "static/media/json.png": "/static/media/json.5058fc56890c484f6878.png",
     "static/media/quoraLogo.png": "/static/media/quoraLogo.85eb29f4d52320c8ed99.png",
     "static/media/airbnbLogo.png": "/static/media/airbnbLogo.e8497507db673acd3991.png",
@@ -39,12 +40,12 @@
     "static/media/manOnTable.svg": "/static/media/manOnTable.ec71d7cb82f4dfb6faa2.svg",
     "static/media/developerActivity.svg": "/static/media/developerActivity.64ee645097ba732c156b.svg",
     "index.html": "/index.html",
-    "main.c8318b51.css.map": "/static/css/main.c8318b51.css.map",
-    "main.53f0c647.js.map": "/static/js/main.53f0c647.js.map",
+    "main.b9d006fe.css.map": "/static/css/main.b9d006fe.css.map",
+    "main.b0a34592.js.map": "/static/js/main.b0a34592.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8318b51.css",
-    "static/js/main.53f0c647.js"
+    "static/css/main.b9d006fe.css",
+    "static/js/main.b0a34592.js"
   ]
 }
